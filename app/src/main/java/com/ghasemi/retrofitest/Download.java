@@ -7,7 +7,7 @@ import android.os.Parcelable;
 public class Download  implements Parcelable{
  
     public Download(){
- 
+// jkj
     }
 //    We send this Download model class object in a Intent for broadcasting.
 //    Inorder to send this in Intent Extra we need to implement the Parcelable interface.
